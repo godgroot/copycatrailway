@@ -40,4 +40,4 @@ I'm an Autofilter bot v2.0 and you can not Add Me to your Group. I was made for 
 <b>☞ 📖Source Code</b> : <a href="https://github.com/MoTechYT/Pro-Auto-Filter-Bot-V2.o">😋Click Here</a></b>
 """
 
-    TEAM = """Team [MoTech YT](t.me/Mo_Tech_YT)"""
+    TEAM = """Team [aashaan❌](t.me/im_godgroot)"""
